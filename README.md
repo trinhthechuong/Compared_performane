@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository offers a Python package for comparing the performance of machine learning models through statistical tests. Two approaches are implemented: Bayesian estimation and the Wilcoxon signed-rank test.
+This repository offers a Python `Statistical_test` package for comparing the performance of machine learning models through statistical tests. Two approaches are implemented: Bayesian estimation and the Wilcoxon signed-rank test. 
 
 ## Code example
 ```python
@@ -26,9 +26,6 @@ model_compare.posthoc_comparison(title="Comparison heatmap Wilcoxon", save=False
 ```
 
 ## Example notebook
-You can find a detailed example in the [Statistical_test_ML_performance.ipynb](Statistical_test_ML_performance.ipynb) notebook.
-
-Example Notebook
 Check out the detailed example in the [example notebook](Statistical_test_ML_performance.ipynb) for a step-by-step guide and comprehensive examples.
 
 ## Contributing
